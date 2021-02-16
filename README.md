@@ -1,3 +1,3 @@
-Demo: http://trungbloglist.herokuapp.com
-Username: buklau
+Demo: http://trungbloglist.herokuapp.com</br>
+Username: buklau</br>
 Password: buklau123
